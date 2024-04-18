@@ -1,38 +1,48 @@
-Res-QReady: Revolutionizing Disaster Management
-Project Description
-Res-QReady is a revolutionary disaster management platform designed to empower individuals and organizations in mitigating the impact of disasters. Leveraging advanced technologies and a user-centric approach, Res-QReady offers a comprehensive suite of features aimed at enhancing resilience and preparedness during crises.
 
-This project aims to address the critical challenges faced during disasters, including real-time alerts, AI prediction models for disaster detection, a volunteer shelter network, offline access to critical information, Twitter monitoring, and AI analysis. By integrating these features into a single platform, Res-QReady provides a holistic solution for effective disaster management.
 
-Team members
-Adarsh Vishwakarma
-Sajad Hussain
-Ruvais
-Abinash Singh
-Link to product walkthrough
-Res-QReady Demo Video
+---
 
-Presentation PPT
+# Res-QReady
 
-How it Works ?
-Res-QReady's functionality revolves around real-time alerts, AI prediction models, a volunteer shelter network, and offline access to critical information. Watch the demo video to see it in action!
+Res-QReady is an innovative disaster management platform designed to revolutionize how communities prepare for and respond to emergencies. This project brings together a dedicated team of experts, including Adarsh Vishwakarma, Sajad Hussain, Ruvais, and Abinash Singh, who are committed to creating a solution that empowers individuals and organizations to navigate through disasters effectively.
 
-[Embed video of project demo]
+## Table of Contents
 
-Libraries used
-Next.js - Version X
-Firebase - Version Y
-Twilio - Version Z
-TensorFlow.js - Version A
-Gemimi - Version B
-How to configure
-Clone the repository.
-Install dependencies using npm or yarn.
-Configure Firebase and Twilio API keys.
-Run the development server.
-How to Run
-arduino
-Copy code
+- [Team Members](#team-members)
+- [Product Walkthrough](#product-walkthrough)
+- [How it Works](#how-it-works)
+- [Libraries Used](#libraries-used)
+- [Configuration](#configuration)
+- [Running the Project](#running-the-project)
+
+## Team Members
+- Adarsh Vishwakarma
+- Sajad Hussain
+- Ruvais
+- Abinash Singh
+
+## Product Walkthrough
+Check out our [demo video](Link-here) to see Res-QReady in action. You can also view our [presentation slides](Link-to-PPT) for a detailed overview.
+
+## How it Works
+Res-QReady is a comprehensive disaster management platform that integrates real-time alerts, AI prediction models, a volunteer shelter network, offline access to critical information, Twitter monitoring, and AI analysis. Watch the demo video to see it in action!
+
+## Libraries Used
+- Next.js - Version X
+- Firebase - Version Y
+- Twilio - Version Z
+- TensorFlow.js - Version A
+- Gemimi - Version B
+
+## Configuration
+1. Clone the repository.
+2. Install dependencies using npm or yarn.
+3. Configure Firebase and Twilio API keys.
+
+## Running the Project
+Use the following commands to run the project:
+
+```
 npm run dev
 # or 
 yarn dev
@@ -40,6 +50,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+
 Open http://localhost:3000 with your browser to see the result. Start editing the page by modifying app/page.js. The page auto-updates as you edit the file.
 
-Res-QReady is a comprehensive solution that empowers communities to navigate through disasters effectively.
+---
