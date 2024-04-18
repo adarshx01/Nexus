@@ -4,7 +4,7 @@
 
 # Res-QReady
 
-Res-QReady is an innovative disaster management platform designed to revolutionize how communities prepare for and respond to emergencies. This project brings together a dedicated team of experts, including Adarsh Vishwakarma, Sajad Hussain, Ruvais, and Abinash Singh, who are committed to creating a solution that empowers individuals and organizations to navigate through disasters effectively.
+Res-QReady is an innovative disaster management platform designed to revolutionize how communities prepare for and respond to emergencies.
 
 ## Table of Contents
 
@@ -26,6 +26,14 @@ Check out our [demo video](Link-here) to see Res-QReady in action. You can also 
 
 ## How it Works
 Res-QReady is a comprehensive disaster management platform that integrates real-time alerts, AI prediction models, a volunteer shelter network, offline access to critical information, Twitter monitoring, and AI analysis. Watch the demo video to see it in action!
+
+##Key Features
+- Real-time alerts for immediate disaster notifications.
+- AI-driven prediction models for enhanced preparedness.
+- Volunteer shelter network for housing assistance.
+- Offline access to critical information for low-connectivity areas.
+- Monitoring and AI analysis for insights.
+- Easy-to-use interface for quick navigation and response.
 
 ## Libraries Used
 - Next.js - Version X
