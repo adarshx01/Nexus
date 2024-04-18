@@ -22,7 +22,8 @@ Res-QReady is an innovative disaster management platform designed to revolutioni
 - Abinash Singh
 
 ## Product Walkthrough
-Check out our [demo video](Link-here) to see Res-QReady in action. You can also view our [presentation slides]((https://drive.google.com/file/d/1w7I89IsM-l8hf5iEoBek6R_pipmeACOE/view?usp=sharing)) for a detailed overview.
+Check out our [demo video](Link-here) to see Res-QReady in action. You can also view our [presentation slides](https://drive.google.com/file/d/1w7I89IsM-l8hf5iEoBek6R_pipmeACOE/view?usp=sharing) for a detailed overview.
+
 
 ## How it Works
 Res-QReady is a comprehensive disaster management platform that integrates real-time alerts, AI prediction models, a volunteer shelter network, offline access to critical information, Twitter monitoring, and AI analysis. Watch the demo video to see it in action!
